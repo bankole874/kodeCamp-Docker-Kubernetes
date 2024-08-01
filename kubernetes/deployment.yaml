@@ -17,3 +17,14 @@ spec:
         image: bankdoo/kc-docker-app:latest
         ports:
         - containerPort: 5000
+        env:
+        - name: WELCOME_MESSAGE
+          valueFrom:
+            configMapKeyRef:
+              name: app-config
+              key: WELCOME_MESSAGE
+        - name: DB_PASSWORD
+          valueFrom:
+            secretKeyRef:
+              name: app-secret
+              key: DB_PASSWORD
