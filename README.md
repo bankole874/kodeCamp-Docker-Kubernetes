@@ -8,3 +8,5 @@
 ![dockerBuild](https://github.com/user-attachments/assets/9ac4764e-c69d-431b-b5b4-7a6c0264d26a)
 ![pushToDockerHub](https://github.com/user-attachments/assets/2059d5be-8da7-4381-bc74-662f7d24881e)
 ![deployToMinikubeCluster](https://github.com/user-attachments/assets/4219d75a-3919-45fa-82a0-dc555a8632ad)
+![kubectlapply](https://github.com/user-attachments/assets/bc7a22c5-5c40-44ab-8946-0a1ba7a29852)
+![dockerRun](https://github.com/user-attachments/assets/25c93f68-8153-4cd5-adbd-edaf440bd3e2)
