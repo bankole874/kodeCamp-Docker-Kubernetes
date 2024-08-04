@@ -4,8 +4,6 @@
 ## Introduction
 This project demonstrates a simple web application built with Flask, containerized using Docker, and deployed to a Kubernetes cluster. It also includes the use of Kubernetes ConfigMap and Secret for configuration management.
 
-The application is a simple Flask web app that displays the message `"Hello, Welcome to KodeCamp DevOps Bootcamp!"`.
-
 ## Table of Contents
 - Project Overview
 - Prerequisites
@@ -18,6 +16,8 @@ The application is a simple Flask web app that displays the message `"Hello, Wel
 - Docker Hub Image
 - Project Overview
 
+## Project Overview
+The application is a simple Flask web app that displays the message `"Hello, Welcome to KodeCamp DevOps Bootcamp!"`.
 
 ## Prerequisites
 Python 3.9, Docker, Docker Hub account, Minikube, kubectl
